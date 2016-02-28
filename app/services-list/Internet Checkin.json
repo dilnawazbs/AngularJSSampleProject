@@ -1,0 +1,17 @@
+{
+  "name": "Check in online",
+  "description": ["Check in from the comfort of your home or office",
+  "Choose your seat online and print your boarding pass", 
+  "Avoid the queues at the check-in desk"],
+ 
+ "howTo": "How does online check-in work?",
+
+  "images": [ {"image": "images/online-check-in_tcm588-221175.jpg",
+  "step": "Select your flights and enter the names of any other passengers in your party that you want to check in."
+  }, {"image": "images/Air-France-check-in-seat-selector.jpg",
+  "step": "Choose your seat, or arrange an extra comfortable seat. And, if you are travelling alone, you can use Meet & Seat to see who else will be on your KLM flight"
+  }, {"image": "images/Mobile_boarding_pass_KLM.JPG",
+  "step": "Print out your boarding pass and those of any passengers travelling with you. You can also e-mail the boarding pass to someone who can print the boarding pass for you, or print it out at a self-service check-in machine at the airport."
+  }
+  ]
+}

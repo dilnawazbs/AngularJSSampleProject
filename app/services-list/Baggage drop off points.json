@@ -1,0 +1,15 @@
+{
+  "name": "Self-service baggage drop-off",
+  "description": ["If you have already checked in, you only need to hand over your check-in baggage at one of the baggage drop-off points at the airport."," At Amsterdam Airport Schiphol for Schengen counties these are located in Departure Hall 1 and for non-Schengen countries in Departure Hall 2.","Most airports accept your baggage up to 2 hours before your flight departs on the day of departure.","You will be issued a baggage claim tag for every bag that you check in.", "Make sure to save these tags until you have received your baggage at your destination."],
+ 
+ "howTo": "How does self-service baggage drop-off point work?",
+
+  "images": [ {"image": "images/selfserviceBagdropoff.jpg",
+  "step": "Place one baggage item on the belt. Scan your boarding pass to identify yourself."
+  }, {"image": "images/35328_thumb_1024x768.jpg", 
+  "step": "Check the details about your booking that appear on the screen. An adhesive label will be printed automatically. Attach this label to your baggage and indicate on the screen that you have done so."
+  }, {"image": "images/image-626803.jpg",
+  "step": "The self-service baggage drop-off point will print out confirmation that you have checked in baggage. Make sure to save this confirmation. Your baggage is now checked in"
+  }
+  ]
+}

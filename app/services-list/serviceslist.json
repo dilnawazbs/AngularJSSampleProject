@@ -1,0 +1,21 @@
+ [{
+ 	"id": "Internet Checkin",
+ 	"name": "Check in online",
+ 	"snippet": "Check in from the comfort of your home or office",
+	"imageurl": "images/online-check-in_tcm588-221175.jpg"
+ }, {
+ 	"id": "Kiosk Checkin",
+ 	"name": "Checking in at the airport",
+ 	"snippet": "The check in at one of the self-service check-in machines at the airport",
+	"imageurl": "images/selfservice_check_in_08-2_tcm588-325481.JPG"
+ }, {
+ 	"id": "Mobile Checkin",
+ 	"name": "Check in with your mobile phone",
+ 	"snippet": "Check in for your flight anywhere, anytime. Just use your mobile phone",
+	"imageurl": "images/iphone_mobile_175x175_tcm542-221185.jpg"
+ }, {
+ 	"id": "Baggage drop off points",
+ 	"name": "Baggage drop-off point",
+ 	"snippet": "Deliver your baggage to a self-service baggage machine",
+	"imageurl": "images/clip_image003_tcm588-221226.jpg"
+ }]

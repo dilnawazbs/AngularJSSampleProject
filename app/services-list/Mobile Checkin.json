@@ -1,0 +1,17 @@
+{
+  "name": "Check in with your mobile phone",
+  "description": ["Check in for your flight anywhere, anytime. Just use your mobile phone. And we make it even easier: for most flights you can also receive an electronic boarding pass on your mobile phone."],
+ 
+ "howTo": "How does Mobile check-in work?",
+
+  "images": [ {"image": "images/screen322x572.jpeg",
+  "step": "Use your mobile phone, enter www.KLM.com and then go to check-in. If you received a check-in text message, skip this step and simply use the link in the text message. "
+  }, {"image": "images/Screen-Shot-2013-06-19-at-12.37.26.jpg",
+  "step": "Enter your e-ticket number or booking code and flight number, and your personal details will appear on the screen."
+  }, {"image": "images/500_36516392.jpg",
+  "step": "You will see your assigned seat number aboard the aircraft; if you want, you can change this seat. Or, go for a seat with more comfort. Want to bring more baggage? Arrange it at a 20% discount! "
+  }, {"image": "images/unnamed.png",
+  "step": "Depending on your route and the options provided by your phone and cellular subscription, you can receive your boarding pass by e-mail. The quality of the barcode will be the same no matter how you receive it."
+  }
+  ]
+}

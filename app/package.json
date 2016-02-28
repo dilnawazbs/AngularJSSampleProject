@@ -1,0 +1,42 @@
+{
+  "name": "angular2-quickstart",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "angular2": "2.0.0-beta.7",
+    "es6-promise": "^3.0.2",
+    "es6-shim": "^0.33.3",
+    "reflect-metadata": "0.1.2",
+    "rxjs": "5.0.0-beta.2",
+    "zone.js": "0.5.15"
+  },
+  "devDependencies": {
+    "concurrently": "^2.0.0",
+    "lite-server": "^2.1.0"
+  },
+  "devDependencies": {
+    "karma": "~0.10",
+    "karma-mocha": "~0.0.1",
+    "karma-growl-reporter": "~0.0.1",
+    "karma-firefox-launcher": "~0.0.1"
+  },
+ 
+  "name": "angular-phonecat",
+  "description": "A starter project for AngularJS",
+  "version": "0.0.0",
+  "homepage": "https://github.com/angular/angular-phonecat",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "1.4.x",
+    "angular-mocks": "1.4.x",
+    "jquery": "~2.1.1",
+    "bootstrap": "~3.1.1",
+    "angular-route": "1.4.x"
+  }
+
+}

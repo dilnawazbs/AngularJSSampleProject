@@ -1,0 +1,23 @@
+<div class="device-images">
+  <img ng-src="{{mainImageUrl}}"
+       class="application"
+       ng-repeat="img in servicesDetails.images"
+       ng-class="{active: mainImageUrl==img.image}">
+</div>
+
+<h1>{{servicesDetails.name}}</h1>
+
+<li ng-repeat="serviceDetail in servicesDetails.description" id="description">
+<p class="servDetails">{{serviceDetail}}</p>
+</li>
+
+<ul class="image-thumbs">
+  <li ng-repeat="img in servicesDetails.images">
+    <img ng-src="{{img.image}}" ng-click="setImage(img.image)">
+  </li>
+</ul>
+
+<h1>{{servicesDetails.howTo}}</h1>
+
+  <li ng-repeat="steps in servicesDetails.images | filter: mainImageUrl" class="servDetails">{{steps.step}}</li>
+

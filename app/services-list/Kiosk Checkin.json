@@ -1,0 +1,15 @@
+{
+  "name": "Checking in at the airport",
+  "description": ["Unable to check in online? Then check in at one of the self-service check-in machines at the airport and hand your baggage over at one of the baggage drop-off points."],
+ 
+ "howTo": "How does self-service check-in work?",
+
+  "images": [ {"image": "images/KioskNGK1.jpg",
+  "step": "Insert your passport or frequent flyer card, or enter your ticket number or booking code. Your booking details will appear on the screen."
+  }, {"image": "images/self_check_4.jpg",
+  "step": "Select your seat on the seating map. You can also buy a seat in the Economy Comfort zone, a seat with extra legroom, or a preferred seat. Alternatively, you can treat yourself to an upgrade to World Business Class! All it takes is a credit card to make the change. "
+  }, {"image": "images/self_check_5.jpg",
+  "step": "Print your boarding pass."
+  }
+  ]
+}

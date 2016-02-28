@@ -1,0 +1,28 @@
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-2">
+      <!--Sidebar content-->
+
+      Search: <input ng-model="query"></br>
+      Filter by:
+      <select ng-model="orderProp">
+        <option value="name">Alphabetical Order</option>
+		<option value="id">Natural order</option>
+      </select>
+
+    </div>
+    <div class="col-md-10">
+      <!--Body content-->
+
+      <ul class="servicelist">
+        <li ng-repeat="servicelist in serviceslists | filter:query | orderBy:orderProp"
+            class="thumbnail">
+          <a href="#/services-list/{{servicelist.id}}" class="thumb"><img ng-src="{{servicelist.imageurl}}" alt="{{servicelist.name}}"></a>
+          <a href="#/services-list/{{servicelist.id}}">{{servicelist.name}}</a>
+          <p>{{servicelist.snippet}}</p>
+        </li>
+      </ul>
+
+    </div>
+  </div>
+</div>
